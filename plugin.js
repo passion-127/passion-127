@@ -1,5 +1,5 @@
 var script = document.createElement('script');
-script.setAttribute('type', 'text/javascript');
+
 script.onload = function () {
     //do stuff with the script
     $(document).ready(function() {
@@ -10,5 +10,6 @@ script.onload = function () {
     });
 };
 script.src = "https://code.jquery.com/jquery-3.6.3.slim.min.js";
+script.type = "text/javascript";
 
 document.head.appendChild(script);
