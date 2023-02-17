@@ -1,4 +1,5 @@
 var script = document.createElement('script');
+script.setAttribute('type', 'text/javascript');
 script.onload = function () {
     //do stuff with the script
     $(document).ready(function() {
