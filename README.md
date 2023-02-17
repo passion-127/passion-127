@@ -1,6 +1,6 @@
 <!-- <img width="100%" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/dereknguyen.png"> -->
 
-## Hi there, I'm [JACK](https://github.com/passion-127) 👋
+## Hi there, 👋
 
 - 🧐 Interested in full stack. Recent focus on AI.
 - 🎓 B.S. in Computer Science. Major GPA 3.90/4.0, GPA 3.75/4.0, TOP 3%.
@@ -76,11 +76,11 @@
    <i>Take a look at my repositories and let's get in touch!</i>
    <br>
 <br>
-<a target="_blank" href="https://github.com/passion-127"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></img></a>
+<!-- <a target="_blank" href="https://github.com/passion-127"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></img></a>
 <a target="_blank" href="https://passion-127.github.io/my-portfolio/"><img src="https://img.shields.io/badge/-WEB-FF4088?style=for-the-badge&logo=Hugo&logoColor=white"></img></a>	
 <a target="_blank" href="https://www.linkedin.com/in/jack-noi-610b22256"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
 <a target="_blank" href="mailto:jack.noi0915@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
 <a target="_blank" href="jacknoi127"><img src="https://img.shields.io/badge/Skype-00AFF0?style=for-the-badge&logo=skype&logoColor=white"></img></a>
-
+ -->
 <br>
 </p>
