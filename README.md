@@ -2,7 +2,7 @@
 
 ## Hi there, 👋
 
-- 🧐 Interested in full stack. Recent focus on AI.
+- 🧐 expertise in full stack with JavaScript & Python. Recent focus on AI.
 - 🎓 B.S. in Computer Science. Major GPA 3.90/4.0, GPA 3.75/4.0, TOP 3%.
 - 🌱 Currently learning AI, Rust, Solidity, Math & Philosophy.
 - 💻 With 4 years' computer science and technology education and 10+ years' development working experience.
